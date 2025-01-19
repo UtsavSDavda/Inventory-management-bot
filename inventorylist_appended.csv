@@ -1,0 +1,62 @@
+SKU,DESCRIPTION,BIN #,LOCATION,UNIT,QTY,REORDER QTY,COST,INVENTORY VALUE,REORDER
+SP7875,Item 1,T345,"Row 2, slot 1",Each,100,10,$30.00,$600.00,
+TR87680,Item 2,T345,"Row 2, slot 1",Each,200,15,$40.00,"$1,200.00",
+MK676554,Item 3,T5789,"Row 1, slot 1",Each,100,5,$5.00,$50.00,
+YE98767,Item 4,T9876,"Row 3, slot 2",Box (10 ct),400,10,$15.00,$600.00,
+XR23423,Item 5,T098,"Row 3, slot 1",Each,120,10,$26.00,$312.00,
+PW98762,Item 6,T345,"Row 2, slot 1",Each,70,10,$50.00,$350.00,Reorder
+BM87684,Item 7,T349,"Row 1, slot 2",Each,100,5,$10.00,$100.00,
+BH67655,Item 8,T5789,"Row 1, slot 1",Each,140,10,$3.00,$57.00,
+WT98768,Item 9,T9875,"Row 2, slot 2",Box (5 ct),200,30,$14.00,$280.00,Reorder
+TS3456,Item 10,T349,"Row 1, slot 2",Each,120,8,$60.00,$900.00,
+WDG123,Item 11,T349,"Row 1, slot 2",Each,210,15,$8.00,$200.00,
+HL40405,Item 12,T826,"Row 1, slot 2",Box (10 ct),220,8,$7.41,"$1,987.54",
+TS64666,Item 13,T120,"Row 2, slot 1",Each,80,7,$7.35,"$1,243.91",
+IG013820,Item 14,T556,"Row 3, slot 2",Box (10 ct),270,27,$13.39,"$1,679.89",Reorder
+RK015340,Item 15,T561,"Row 1, slot 1",Box (10 ct),460,17,$8.66,"$1,344.18",
+OP0051,Item 16,T435,"Row 1, slot 2",Box (5 ct),140,23,$2.68,$188.46,Reorder
+SN6560,Item 17,T731,"Row 1, slot 2",Box (5 ct),440,19,$79.66,$70.72,
+TH231483,Item 18,T768,"Row 2, slot 2",Each,30,21,$75.31,"$1,450.47",
+QK053083,Item 19,T565,"Row 1, slot 2",Box (10 ct),90,14,$33.71,$136.21,Reorder
+WO04322,Item 20,T790,"Row 1, slot 2",Each,60,7,$21.67,$491.01,Reorder
+AS4238,Item 21,T672,"Row 1, slot 1",Each,460,16,$10.64,"$1,404.68",
+WI708553,Item 22,T896,"Row 3, slot 2",Box (5 ct),230,9,$26.74,"$1,914.92",
+XO752107,Item 23,T101,"Row 3, slot 2",Box (5 ct),500,15,$97.54,$53.58,
+ZA030625,Item 24,T922,"Row 2, slot 2",Box (5 ct),13,30,$24.60,$850.16,
+KF1996,Item 25,T958,"Row 1, slot 1",Box (10 ct),9,19,$95.78,"$1,305.45",Reorder
+MI06009,Item 26,T995,"Row 2, slot 1",Each,24,7,$75.84,"$1,743.15",
+PP61221,Item 27,T480,"Row 1, slot 1",Each,27,10,$49.17,$188.15,
+WW707165,Item 28,T304,"Row 3, slot 1",Box (5 ct),16,23,$86.67,"$1,754.86",Reorder
+XK802732,Item 29,T804,"Row 1, slot 2",Each,11,18,$23.69,$427.42,
+ZN04653,Item 30,T796,"Row 2, slot 1",Box (5 ct),44,13,$54.88,"$1,313.77",
+RO1618,Item 31,T252,"Row 3, slot 1",Each,18,8,$89.29,"$1,708.46",
+HD6685,Item 32,T406,"Row 3, slot 1",Box (5 ct),12,30,$6.76,"$1,687.14",
+XW6565,Item 33,T106,"Row 3, slot 2",Box (5 ct),17,19,$94.70,"$1,079.52",
+TK36939,Item 34,T176,"Row 2, slot 2",Each,50,13,$86.33,"$1,340.04",
+UK742516,Item 35,T440,"Row 1, slot 2",Box (5 ct),5,25,$35.64,"$1,577.17",
+DC99031,Item 36,T595,"Row 3, slot 1",Each,32,14,$80.51,$205.33,
+XG5008,Item 37,T138,"Row 3, slot 2",Box (5 ct),26,23,$77.72,$787.55,
+MC869986,Item 38,T724,"Row 3, slot 2",Box (10 ct),48,23,$5.13,$680.55,
+OG39311,Item 39,T860,"Row 1, slot 2",Box (10 ct),28,11,$13.45,$411.53,
+NO86090,Item 40,T593,"Row 1, slot 1",Box (5 ct),49,22,$87.71,"$1,019.18",
+MB1133,Item 41,T660,"Row 2, slot 2",Box (5 ct),23,16,$42.79,$458.66,
+YZ6468,Item 42,T782,"Row 3, slot 1",Each,46,16,$72.47,"$1,614.17",
+DT98104,Item 43,T702,"Row 3, slot 1",Box (5 ct),30,26,$84.59,"$1,289.84",
+AD70613,Item 44,T345,"Row 1, slot 2",Box (10 ct),24,24,$4.25,$620.32,Reorder
+JP4789,Item 45,T720,"Row 3, slot 2",Box (10 ct),5,18,$73.86,$465.89,Reorder
+XM293697,Item 46,T484,"Row 2, slot 2",Box (5 ct),38,29,$13.33,$971.74,
+AM4869,Item 47,T678,"Row 2, slot 1",Box (5 ct),21,9,$83.75,"$1,842.89",
+SE27056,Item 48,T825,"Row 2, slot 2",Box (5 ct),47,30,$37.67,$786.35,
+RV7673,Item 49,T596,"Row 2, slot 2",Box (5 ct),17,28,$82.78,"$1,945.67",
+UG38188,Item 50,T922,"Row 3, slot 2",Box (10 ct),22,5,$84.06,$861.95,
+ZL369679,Item 51,T444,"Row 3, slot 2",Box (10 ct),23,24,$59.87,$938.00,Reorder
+CN5466,Item 52,T640,"Row 1, slot 2",Box (10 ct),31,27,$30.66,"$1,320.43",
+FD960897,Item 53,T880,"Row 1, slot 2",Box (10 ct),13,25,$31.52,"$1,445.82",
+VA0753,Item 54,T294,"Row 1, slot 2",Box (10 ct),49,16,$2.20,"$1,301.31",
+HD15575,Item 55,T737,"Row 1, slot 1",Box (5 ct),49,16,$73.59,"$1,814.61",
+SY28897,Item 56,T596,"Row 2, slot 2",Each,21,16,$35.75,"$1,529.59",
+FA658929,Item 57,T115,"Row 3, slot 2",Box (5 ct),26,20,$67.44,$320.08,
+BB974601,Item 58,T159,"Row 2, slot 1",Box (5 ct),24,11,$21.27,$974.41,
+JC4121,Item 59,T167,"Row 2, slot 2",Box (10 ct),18,13,$63.62,$691.89,
+GY43781,Item 60,T927,"Row 1, slot 1",Box (10 ct),22,29,$1.78,$907.28,
+XW916421,Item 61,T383,"Row 1, slot 2",Box (5 ct),26,15,$9.63,$496.73,
